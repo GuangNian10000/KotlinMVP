@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.guangnian10000.kotlinmvp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.guangnian10000.kotlinmvp.MyBundle
 
 class MyApplicationService {
 

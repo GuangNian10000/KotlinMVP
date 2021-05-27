@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.guangnian10000.kotlinmvp
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
